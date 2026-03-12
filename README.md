@@ -1,4 +1,4 @@
-# Taller de Procesamiento de Señales (TA136), Introducción a la Inteligencia Artificial (TB056), Análisis de Datos (TB057), Teoría de Detección y Estimación (8625)
+# Taller de Procesamiento de Señales (TA136), Teoría de Detección y Estimación (8625)
 
 ¡Bienvenidos al repositorio del Taller de Procesamiento de Señales, Introducción a la Inteligencia Artificial, Análisis de Datos y Teoría de Detección y Estimación!
 
